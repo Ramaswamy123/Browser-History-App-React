@@ -1,0 +1,44 @@
+.suggest-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.list {
+  list-style-type: none;
+}
+.time {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin-right: 40px;
+}
+.logo {
+  height: 17px;
+  width: 17px;
+  margin-right: 10px;
+}
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.domain-name {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.mini-box {
+  display: flex;
+  justify-content: space-between;
+}
+.delete-icon {
+  height: 15px;
+  width: 15px;
+}
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 0px;
+}
